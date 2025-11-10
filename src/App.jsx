@@ -17,6 +17,12 @@ function App() {
     <main>
       <p>Hello World!</p>
     </main>
+     <div class="content">
+                
+                <h2>Home</h2>
+                
+                <p>Welcome to the home page for my ITIS3135 course work.</p>
+                </div>
       {/* <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
