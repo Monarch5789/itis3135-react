@@ -1,3 +1,19 @@
 export default function Footer(){
-    return <p>Website Designed by <a href="">Perkins Designs</a></p>
+    return <footer>
+        <nav>
+    <a href="https://webpages.charlotte.edu/aperki41/itis3135">Charlotte Webpage</a>
+    ||
+    <a href="https://github.com/Monarch5789/Monarch5789.github.io">GitHub</a>
+    ||
+    <a href="https://Monarch5789.github.io">GitHub.io</a>
+    ||
+    <a href="https://www.freecodecamp.org/Aidan_Perkins_UNCC">freeCodeCamp</a>
+    ||
+    <a href="https://www.codecademy.com/profiles/method6501867200">Codecademy</a>
+    ||
+    <a href="https://www.linkedin.com/in/aidanjperkins/">LinkedIn</a>
+</nav>
+<p>Page Built By <a href="perkinsdesignsllc.com/">Aidan Perkins</a> &copy;2025</p>
+
+    </footer>
 }
